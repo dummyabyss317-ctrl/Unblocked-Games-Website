@@ -1,0 +1,1395 @@
+[
+  {
+    "title": "1 on 1 Soccer",
+    "description": "Play Soccer 1v1's!",
+    "path": "games/1on1soccer/index.html",
+    "tags": ["runner", "arcade", "sports"]
+  },
+  {
+    "title": "1v1 LOL",
+    "description": "1v1 Your Friends!",
+    "path": "games/1v1lol/index.html",
+    "tags": "Shooter, Action, Creative"
+  },
+  {
+  "title": "60s Burger Run",
+  "description": "Run, jump, and race through levels in this fast arcade platformer.",
+  "path": "games/60sburgerrun/index.html",
+  "tags": ["arcade", "platformer", "runner"]
+},
+{
+  "title": "2048",
+  "description": "Slide number tiles together and try to reach 2048.",
+  "path": "games/2048/index.html",
+  "tags": ["puzzle", "numbers", "classic"]
+},
+{
+  "title": "Achievement Unlocked",
+  "description": "Complete strange tasks and unlock achievements in a small puzzle world.",
+  "path": "games/achieveunlocked/index.html",
+  "tags": ["puzzle", "platformer", "achievements"]
+},
+{
+  "title": "Achievement Unlocked 2",
+  "description": "The sequel to Achievement Unlocked with more challenges and goals.",
+  "path": "games/achieveunlocked2/index.html",
+  "tags": ["puzzle", "platformer", "achievements"]
+},
+{
+  "title": "A Dark Room",
+  "description": "A minimal text-based survival and resource management game.",
+  "path": "games/adarkroom/index.html",
+  "tags": ["text", "survival", "strategy"]
+},
+{
+  "title": "A Dance of Fire and Ice",
+  "description": "A rhythm game focused on timing, movement, and precision.",
+  "path": "games/adofai/index.html",
+  "tags": ["rhythm", "music", "skill"]
+},
+{
+  "title": "AdVenture Capitalist",
+  "description": "Build businesses, earn money, and grow your idle empire.",
+  "path": "games/adventure-capitalist/index.html",
+  "tags": ["idle", "business", "clicker"]
+},
+{
+  "title": "Age of War",
+  "description": "Defend your base and evolve through different eras of battle.",
+  "path": "games/ageofwar/index.html",
+  "tags": ["strategy", "defense", "war"]
+},
+{
+  "title": "Amazing Rope Police",
+  "description": "Explore a city with rope-swinging action and open-world movement.",
+  "path": "games/amazing-rope-police/index.html",
+  "tags": ["action", "open-world", "city"]
+},
+{
+  "title": "Among Us",
+  "description": "A browser version inspired by the social deduction game.",
+  "path": "games/amongus/index.html",
+  "tags": ["multiplayer", "party", "strategy"]
+},
+{
+  "title": "Avalanche",
+  "description": "Dodge falling blocks and survive as long as possible.",
+  "path": "games/avalanche/index.html",
+  "tags": ["arcade", "survival", "skill"]
+},
+{
+  "title": "Awesome Tanks",
+  "description": "Drive a tank, battle enemies, and upgrade your weapons.",
+  "path": "games/awesometanks/index.html",
+  "tags": ["tank", "action", "shooter"]
+},
+{
+  "title": "Ayun",
+  "description": "A browser game from the imported collection.",
+  "path": "games/ayun/index.html",
+  "tags": ["arcade", "browser", "game"]
+},
+{
+  "title": "Bad Ice Cream",
+  "description": "Collect fruit, break ice blocks, and avoid enemies.",
+  "path": "games/badicecream/index.html",
+  "tags": ["arcade", "puzzle", "classic"]
+},
+{
+  "title": "Bad Ice Cream 2",
+  "description": "The second Bad Ice Cream game with more puzzle arcade levels.",
+  "path": "games/badicecream2/index.html",
+  "tags": ["arcade", "puzzle", "classic"]
+},
+{
+  "title": "Bad Ice Cream 3",
+  "description": "The third Bad Ice Cream game with more stages and challenges.",
+  "path": "games/badicecream3/index.html",
+  "tags": ["arcade", "puzzle", "classic"]
+},
+{
+  "title": "Bad Piggies",
+  "description": "Build strange vehicles and solve physics-based puzzles.",
+  "path": "games/badpiggies/index.html",
+  "tags": ["physics", "puzzle", "building"]
+},
+{
+  "title": "Bad Time Simulator",
+  "description": "A difficult dodge-based battle simulator inspired by Undertale.",
+  "path": "games/badtimesimulator/index.html",
+  "tags": ["skill", "battle", "simulator"]
+},
+{
+  "title": "Baldi's Basics",
+  "description": "A school-themed survival game with retro-style mechanics.",
+  "path": "games/baldis-basics/index.html",
+  "tags": ["survival", "school", "retro"]
+},
+{
+  "title": "Ballistic Chickens",
+  "description": "Launch chickens and use physics to travel as far as possible.",
+  "path": "games/ballisticchickens/index.html",
+  "tags": ["physics", "arcade", "launch"]
+},
+{
+  "title": "Basketball Stars",
+  "description": "Play fast basketball matches and score against opponents.",
+  "path": "games/basketball-stars/index.html",
+  "tags": ["sports", "basketball", "arcade"]
+},
+{
+  "title": "BasketBros",
+  "description": "A fast-paced basketball game with arcade-style movement.",
+  "path": "games/basketbros/index.html",
+  "tags": ["sports", "basketball", "multiplayer"]
+},
+{
+  "title": "Basket Random",
+  "description": "A goofy physics basketball game with unpredictable movement.",
+  "path": "games/basketrandom/index.html",
+  "tags": ["sports", "basketball", "physics"]
+},
+{
+  "title": "Bit Planes",
+  "description": "Fly pixel-style planes in a simple browser arcade game.",
+  "path": "games/bit-planes/index.html",
+  "tags": ["planes", "arcade", "flying"]
+},
+{
+  "title": "BitLife",
+  "description": "Live a virtual life and make choices that shape your story.",
+  "path": "games/bitlife/index.html",
+  "tags": ["life", "simulator", "choices"]
+},
+{
+  "title": "Blood Tournament",
+  "description": "A fighting tournament game from the imported collection.",
+  "path": "games/bloodtournament/index.html",
+  "tags": ["fighting", "action", "tournament"]
+},
+{
+  "title": "Bob the Robber 2",
+  "description": "Sneak through buildings, avoid guards, and complete robbery missions.",
+  "path": "games/bobtherobber2/index.html",
+  "tags": ["stealth", "puzzle", "adventure"]
+},
+{
+  "title": "Boxing Physics 2",
+  "description": "A physics-based boxing game with chaotic movement.",
+  "path": "games/boxingphysics2/index.html",
+  "tags": ["sports", "boxing", "physics"]
+},
+{
+  "title": "Boxing Random",
+  "description": "A random physics boxing game with goofy matches.",
+  "path": "games/boxingrandom/index.html",
+  "tags": ["sports", "boxing", "physics"]
+},
+{
+  "title": "Breaking the Bank",
+  "description": "Choose different plans and try to break into the bank.",
+  "path": "games/breakingthebank/index.html",
+  "tags": ["choice", "adventure", "stickman"]
+},
+{
+  "title": "Bloons Tower Defense",
+  "description": "Place towers, pop balloons, and survive incoming waves.",
+  "path": "games/btd/index.html",
+  "tags": ["tower-defense", "strategy", "classic"]
+},
+{
+  "title": "Bloons Tower Defense 2",
+  "description": "Place towers, pop balloons, and defend against waves.",
+  "path": "games/btd2/index.html",
+  "tags": ["tower-defense", "strategy", "bloons"]
+},
+{
+  "title": "Bloons Tower Defense 3",
+  "description": "A classic tower defense game with more maps, towers, and balloon waves.",
+  "path": "games/btd3/index.html",
+  "tags": ["tower-defense", "strategy", "bloons"]
+},
+{
+  "title": "Bloons Tower Defense 4",
+  "description": "Defend your track with upgraded towers and stronger balloon waves.",
+  "path": "games/btd4/index.html",
+  "tags": ["tower-defense", "strategy", "bloons"]
+},
+{
+  "title": "Bloons Tower Defense 5",
+  "description": "Build defenses, upgrade towers, and survive advanced balloon waves.",
+  "path": "games/btd5/index.html",
+  "tags": ["tower-defense", "strategy", "bloons"]
+},
+{
+  "title": "Bloons Tower Defense 6",
+  "description": "A tower defense game focused on upgrades, strategy, and balloon popping.",
+  "path": "games/btd6/index.html",
+  "tags": ["tower-defense", "strategy", "bloons"]
+},
+{
+  "title": "Bubble Shooter",
+  "description": "Aim, match, and pop bubbles in this classic arcade puzzle game.",
+  "path": "games/bubbleshooter/index.html",
+  "tags": ["puzzle", "arcade", "bubble"]
+},
+{
+  "title": "Burger & Frights",
+  "description": "Ride through a strange nighttime route in this eerie browser game.",
+  "path": "games/burgerandfrights/index.html",
+  "tags": ["adventure", "horror", "bike"]
+},
+{
+  "title": "Burrito Bison",
+  "description": "Launch Burrito Bison, smash enemies, and travel as far as possible.",
+  "path": "games/burritobison/index.html",
+  "tags": ["launch", "arcade", "action"]
+},
+{
+  "title": "Celeste",
+  "description": "Climb, jump, and dash through challenging platforming levels.",
+  "path": "games/celeste/index.html",
+  "tags": ["platformer", "skill", "adventure"]
+},
+{
+  "title": "Cell Machine",
+  "description": "Use logic and chain reactions to solve mechanical cell puzzles.",
+  "path": "games/cell-machine/index.html",
+  "tags": ["puzzle", "logic", "automation"]
+},
+{
+  "title": "Champion Island",
+  "description": "Explore an island, complete sports challenges, and collect victories.",
+  "path": "games/championisland/index.html",
+  "tags": ["sports", "adventure", "arcade"]
+},
+{
+  "title": "Chess",
+  "description": "Play the classic strategy board game in your browser.",
+  "path": "games/chess/index.html",
+  "tags": ["board", "strategy", "classic"]
+},
+{
+  "title": "Chibi Knight",
+  "description": "Fight enemies, level up, and adventure through a fantasy world.",
+  "path": "games/chibiknight/index.html",
+  "tags": ["adventure", "action", "rpg"]
+},
+{
+  "title": "CircloO",
+  "description": "Roll through circular physics levels and reach the goal.",
+  "path": "games/circloo/index.html",
+  "tags": ["physics", "puzzle", "platformer"]
+},
+{
+  "title": "Clicker Heroes",
+  "description": "Click monsters, earn gold, hire heroes, and grow stronger.",
+  "path": "games/clickerheroes/index.html",
+  "tags": ["clicker", "idle", "rpg"]
+},
+{
+  "title": "Cluster Rush",
+  "description": "Jump across moving trucks and survive fast-paced obstacle courses.",
+  "path": "games/cluster-rush/index.html",
+  "tags": ["parkour", "runner", "skill"]
+},
+{
+  "title": "CMM Client",
+  "description": "A browser game from the imported collection.",
+  "path": "games/cmm-client/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Color Switch",
+  "description": "Move through matching colors and avoid the wrong obstacles.",
+  "path": "games/colorswitch/index.html",
+  "tags": ["arcade", "skill", "color"]
+},
+{
+  "title": "Commodore Clicker",
+  "description": "Click, earn, and upgrade in this retro-style idle game.",
+  "path": "games/commodoreclicker/index.html",
+  "tags": ["clicker", "idle", "retro"]
+},
+{
+  "title": "Cookie Clicker",
+  "description": "Click cookies, buy upgrades, and build a massive cookie empire.",
+  "path": "games/cookieclicker/index.html",
+  "tags": ["clicker", "idle", "classic"]
+},
+{
+  "title": "Crossy Road",
+  "description": "Cross roads, rivers, and obstacles while trying to survive.",
+  "path": "games/crossyroad/index.html",
+  "tags": ["arcade", "survival", "crossing"]
+},
+{
+  "title": "CS:GO Clicker",
+  "description": "Open cases, collect items, and progress through a clicker-style economy.",
+  "path": "games/csgoclicker/index.html",
+  "tags": ["clicker", "case", "idle"]
+},
+{
+  "title": "Cubefield",
+  "description": "Dodge cubes at high speed in this simple reflex game.",
+  "path": "games/cubefield/index.html",
+  "tags": ["arcade", "dodging", "skill"]
+},
+{
+  "title": "Cut the Rope",
+  "description": "Cut ropes, collect stars, and feed the candy to the creature.",
+  "path": "games/cuttherope/index.html",
+  "tags": ["puzzle", "physics", "classic"]
+},
+{
+  "title": "Cut the Rope: Holiday",
+  "description": "A holiday-themed Cut the Rope puzzle game with festive levels.",
+  "path": "games/cuttherope-holiday/index.html",
+  "tags": ["puzzle", "physics", "holiday"]
+},
+{
+  "title": "Dadish",
+  "description": "Play as a radish dad in a platforming adventure.",
+  "path": "games/dadish/index.html",
+  "tags": ["platformer", "adventure", "arcade"]
+},
+{
+  "title": "Dadish 2",
+  "description": "Continue the Dadish adventure with more platforming levels.",
+  "path": "games/dadish2/index.html",
+  "tags": ["platformer", "adventure", "arcade"]
+},
+{
+  "title": "Dadish 3",
+  "description": "The third Dadish platforming adventure with more challenges.",
+  "path": "games/dadish3/index.html",
+  "tags": ["platformer", "adventure", "arcade"]
+},
+{
+  "title": "Dante",
+  "description": "A browser game from the imported collection.",
+  "path": "games/dante/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Deal",
+  "description": "A browser game from the imported collection.",
+  "path": "games/deal/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Death Run 3D",
+  "description": "Move through a fast neon tunnel and dodge incoming obstacles.",
+  "path": "games/death-run-3d/index.html",
+  "tags": ["runner", "3d", "skill"]
+},
+{
+  "title": "Dino",
+  "description": "Jump over obstacles in the classic offline dinosaur runner.",
+  "path": "games/dino/index.html",
+  "tags": ["runner", "classic", "arcade"]
+},
+{
+  "title": "Dogeminer",
+  "description": "Mine dogecoins, buy upgrades, and build your mining empire.",
+  "path": "games/dogeminer/index.html",
+  "tags": ["clicker", "idle", "mining"]
+},
+{
+  "title": "Doodle Jump",
+  "description": "Jump upward from platform to platform and try to climb as high as possible.",
+  "path": "games/doodlejump/index.html",
+  "tags": ["arcade", "jumping", "classic"]
+},
+{
+  "title": "Doom",
+  "description": "A browser version of the classic first-person shooter.",
+  "path": "games/doom/index.html",
+  "tags": ["shooter", "classic", "action"]
+},
+{
+  "title": "Drag",
+  "description": "A browser game from the imported collection.",
+  "path": "games/drag/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Dragon Ball Devolution",
+  "description": "Fight in fast-paced Dragon Ball-style battles.",
+  "path": "games/dragonballdevolution/index.html",
+  "tags": ["fighting", "anime", "action"]
+},
+{
+  "title": "Drift Boss",
+  "description": "Drift around corners and try to stay on the track for as long as possible.",
+  "path": "games/drift-boss/index.html",
+  "tags": ["driving", "drifting", "arcade"]
+},
+{
+  "title": "Drift Hunters",
+  "description": "Tune cars, drift on tracks, and earn points for style.",
+  "path": "games/drifthunters/index.html",
+  "tags": ["driving", "cars", "drifting"]
+},
+{
+  "title": "Drive Mad",
+  "description": "Drive through physics-based obstacle courses without crashing.",
+  "path": "games/drivemad/index.html",
+  "tags": ["driving", "physics", "cars"]
+},
+{
+  "title": "Duck Life",
+  "description": "Train your duck, race, and improve its skills.",
+  "path": "games/ducklife1/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "Duck Life 2",
+  "description": "Train your duck for new races and bigger challenges.",
+  "path": "games/ducklife2/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "Duck Life 3",
+  "description": "Train, evolve, and race your duck through different events.",
+  "path": "games/ducklife3/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "Duck Life 4",
+  "description": "Train your duck team and compete in races.",
+  "path": "games/ducklife4/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "Duck Life 5",
+  "description": "Explore caves, train your duck, and compete in challenges.",
+  "path": "games/ducklife5/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "Duck Life 6",
+  "description": "Train your duck and compete in another round of races and challenges.",
+  "path": "games/ducklife6/index.html",
+  "tags": ["training", "racing", "duck"]
+},
+{
+  "title": "EmulatorJS",
+  "description": "A browser-based emulator loader from the imported collection.",
+  "path": "games/emulatorjs/index.html",
+  "tags": ["emulator", "retro", "browser"]
+},
+{
+  "title": "Escaping the Prison",
+  "description": "Choose your plan and try to escape the prison.",
+  "path": "games/escapingtheprison/index.html",
+  "tags": ["choice", "adventure", "stickman"]
+},
+{
+  "title": "Factory Balls",
+  "description": "Solve color and pattern puzzles by painting balls correctly.",
+  "path": "games/factoryballs/index.html",
+  "tags": ["puzzle", "logic", "painting"]
+},
+{
+  "title": "Factory Balls Forever",
+  "description": "A puzzle game about creating the correct ball designs using tools.",
+  "path": "games/factoryballsforever/index.html",
+  "tags": ["puzzle", "logic", "painting"]
+},
+{
+  "title": "Fancy Pants Adventures",
+  "description": "Run, jump, and slide through fast stick-figure platforming levels.",
+  "path": "games/fancypantsadventures/index.html",
+  "tags": ["platformer", "adventure", "classic"]
+},
+{
+  "title": "Fancy Pants Adventures 2",
+  "description": "The second Fancy Pants platforming adventure with more levels and movement.",
+  "path": "games/fancypantsadventures2/index.html",
+  "tags": ["platformer", "adventure", "classic"]
+},
+{
+  "title": "Fireboy and Watergirl",
+  "description": "Use teamwork to solve puzzles with Fireboy and Watergirl.",
+  "path": "games/fireboywatergirl/index.html",
+  "tags": ["puzzle", "platformer", "two-player"]
+},
+{
+  "title": "Fireboy and Watergirl 2",
+  "description": "Solve more two-character puzzle levels with Fireboy and Watergirl.",
+  "path": "games/fireboywatergirl2/index.html",
+  "tags": ["puzzle", "platformer", "two-player"]
+},
+{
+  "title": "Fireboy and Watergirl 3",
+  "description": "Continue solving cooperative puzzle stages with Fireboy and Watergirl.",
+  "path": "games/fireboywatergirl3/index.html",
+  "tags": ["puzzle", "platformer", "two-player"]
+},
+{
+  "title": "Fireboy and Watergirl 4",
+  "description": "Another Fireboy and Watergirl puzzle adventure with new challenges.",
+  "path": "games/fireboywatergirl4/index.html",
+  "tags": ["puzzle", "platformer", "two-player"]
+},
+{
+  "title": "Flappy Bird",
+  "description": "Tap to fly through pipes and try to survive as long as possible.",
+  "path": "games/flappybird/index.html",
+  "tags": ["arcade", "classic", "bird"]
+},
+{
+  "title": "Flappy Plane",
+  "description": "Fly through obstacles in a simple flappy-style plane game.",
+  "path": "games/flappyplane/index.html",
+  "tags": ["arcade", "flying", "skill"]
+},
+{
+  "title": "Fleeing the Complex",
+  "description": "Choose your actions and try to escape the complex.",
+  "path": "games/fleeingthecomplex/index.html",
+  "tags": ["choice", "adventure", "stickman"]
+},
+{
+  "title": "Flippy Fish",
+  "description": "A simple arcade game where you guide a fish through obstacles.",
+  "path": "games/flippyfish/index.html",
+  "tags": ["arcade", "fish", "skill"]
+},
+{
+  "title": "FluidSim",
+  "description": "A browser-based fluid simulation from the imported collection.",
+  "path": "games/fluidsim/index.html",
+  "tags": ["simulation", "physics", "sandbox"]
+},
+{
+  "title": "FNAF",
+  "description": "A browser version inspired by the classic survival game.",
+  "path": "games/fnaf/index.html",
+  "tags": ["survival", "strategy", "classic"]
+},
+{
+  "title": "FNAF 2",
+  "description": "The second browser survival game from the FNAF collection.",
+  "path": "games/fnaf2/index.html",
+  "tags": ["survival", "strategy", "classic"]
+},
+{
+  "title": "FNAF 3",
+  "description": "The third browser survival game from the FNAF collection.",
+  "path": "games/fnaf3/index.html",
+  "tags": ["survival", "strategy", "classic"]
+},
+{
+  "title": "FNAF 4",
+  "description": "The fourth browser survival game from the FNAF collection.",
+  "path": "games/fnaf4/index.html",
+  "tags": ["survival", "strategy", "classic"]
+},
+{
+  "title": "Friday Night Funkin",
+  "description": "Hit notes to the beat in this rhythm game.",
+  "path": "games/fridaynightfunkin/index.html",
+  "tags": ["rhythm", "music", "skill"]
+},
+{
+  "title": "Fruit Ninja",
+  "description": "Slice fruit quickly and avoid missing your targets.",
+  "path": "games/fruitninja/index.html",
+  "tags": ["arcade", "skill", "fruit"]
+},
+{
+  "title": "Funny Ball Game",
+  "description": "A simple browser game from the imported collection.",
+  "path": "games/funnyballgame/index.html",
+  "tags": ["arcade", "browser", "game"]
+},
+{
+  "title": "Funny Mad Racing",
+  "description": "Race through chaotic tracks in this arcade driving game.",
+  "path": "games/funnymadracing/index.html",
+  "tags": ["racing", "driving", "arcade"]
+},
+{
+  "title": "Funny Shooter",
+  "description": "A browser shooter game with fast action and simple controls.",
+  "path": "games/funnyshooter/index.html",
+  "tags": ["shooter", "action", "arcade"]
+},
+{
+  "title": "Funny Shooter 2",
+  "description": "The second Funny Shooter game with more action and enemies.",
+  "path": "games/funnyshooter2/index.html",
+  "tags": ["shooter", "action", "arcade"]
+},
+{
+  "title": "Game Maker",
+  "description": "A browser game from the imported collection.",
+  "path": "games/gamemaker/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "GBA",
+  "description": "A browser-based GBA emulator from the imported collection.",
+  "path": "games/gba/index.html",
+  "tags": ["emulator", "retro", "gba"]
+},
+{
+  "title": "GDLite",
+  "description": "A lightweight browser game from the imported collection.",
+  "path": "games/gdlite/index.html",
+  "tags": ["browser", "arcade", "game"]
+},
+{
+  "title": "Geometry Dash",
+  "description": "Jump, fly, and time your movement through rhythm-based levels.",
+  "path": "games/geometrydash/index.html",
+  "tags": ["rhythm", "platformer", "skill"]
+},
+{
+  "title": "Geometry Rash",
+  "description": "A rhythm-style platformer inspired by fast obstacle timing.",
+  "path": "games/geometryrash/index.html",
+  "tags": ["rhythm", "platformer", "skill"]
+},
+{
+  "title": "Getaway Shooter",
+  "description": "Compete in chaotic shooting and movement-based matches.",
+  "path": "games/getawayshooter/index.html",
+  "tags": ["shooter", "action", "multiplayer"]
+},
+{
+  "title": "Gold Digger FRVR",
+  "description": "Dig through blocks, collect treasure, and explore underground.",
+  "path": "games/golddiggerfrvr/index.html",
+  "tags": ["mining", "puzzle", "arcade"]
+},
+{
+  "title": "Guilty Gear",
+  "description": "A fighting game from the imported collection.",
+  "path": "games/guiltygear/index.html",
+  "tags": ["fighting", "action", "arcade"]
+},
+{
+  "title": "Gun Mayhem",
+  "description": "Battle opponents with weapons in fast platform shooter matches.",
+  "path": "games/gunmayhem/index.html",
+  "tags": ["shooter", "platformer", "action"]
+},
+{
+  "title": "Gun Mayhem 2",
+  "description": "The second Gun Mayhem game with more weapons and battles.",
+  "path": "games/gunmayhem2/index.html",
+  "tags": ["shooter", "platformer", "action"]
+},
+{
+  "title": "Gun Mayhem Redux",
+  "description": "A revised Gun Mayhem game with chaotic platform shooter action.",
+  "path": "games/gunmayhemredux/index.html",
+  "tags": ["shooter", "platformer", "action"]
+},
+{
+  "title": "Halloween 2016",
+  "description": "A Halloween-themed browser game from the imported collection.",
+  "path": "games/halloween2016/index.html",
+  "tags": ["halloween", "arcade", "browser"]
+},
+{
+  "title": "Happy Wheels",
+  "description": "Navigate physics-based obstacle courses with chaotic movement.",
+  "path": "games/happywheels/index.html",
+  "tags": ["physics", "obstacle", "arcade"]
+},
+{
+  "title": "Helix Jump",
+  "description": "Drop through rotating platforms and avoid dangerous sections.",
+  "path": "games/helixjump/index.html",
+  "tags": ["arcade", "skill", "jumping"]
+},
+{
+  "title": "HexGL",
+  "description": "A futuristic high-speed racing game in the browser.",
+  "path": "games/hexgl/index.html",
+  "tags": ["racing", "futuristic", "speed"]
+},
+{
+  "title": "Hextris",
+  "description": "Rotate the hexagon, match colors, and survive as long as possible.",
+  "path": "games/hextris/index.html",
+  "tags": ["puzzle", "arcade", "color"]
+},
+{
+  "title": "Hill Climb Racing 2",
+  "description": "Drive over hills, balance your vehicle, and collect rewards.",
+  "path": "games/hillclimbracing2/index.html",
+  "tags": ["driving", "physics", "racing"]
+},
+{
+  "title": "Hole.io",
+  "description": "Control a growing hole and consume objects to become larger.",
+  "path": "games/holeio/index.html",
+  "tags": ["arcade", "io", "survival"]
+},
+{
+  "title": "Idle Breakout",
+  "description": "Break bricks, buy upgrades, and automate your progress.",
+  "path": "games/idlebreakout/index.html",
+  "tags": ["idle", "clicker", "breakout"]
+},
+{
+  "title": "IMG",
+  "description": "A browser game from the imported collection.",
+  "path": "games/img/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "INF",
+  "description": "A browser game from the imported collection.",
+  "path": "games/inf/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Infiltrating the Airship",
+  "description": "Choose your path and try to infiltrate the airship.",
+  "path": "games/infiltratingtheairship/index.html",
+  "tags": ["choice", "adventure", "stickman"]
+},
+{
+  "title": "IWBTG",
+  "description": "A difficult platformer from the imported collection.",
+  "path": "games/iwbtg/index.html",
+  "tags": ["platformer", "hard", "skill"]
+},
+{
+  "title": "Jetpack Joyride",
+  "description": "Fly with a jetpack, dodge obstacles, and collect coins.",
+  "path": "games/jetpackjoyride/index.html",
+  "tags": ["runner", "arcade", "jetpack"]
+},
+{
+  "title": "JS",
+  "description": "A browser game from the imported collection.",
+  "path": "games/js/index.html",
+  "tags": ["browser", "javascript", "game"]
+},
+{
+  "title": "Just Fall LOL",
+  "description": "Survive on falling platforms and try to be the last one standing.",
+  "path": "games/justfalllol/index.html",
+  "tags": ["survival", "platformer", "multiplayer"]
+},
+{
+  "title": "Knife Hit",
+  "description": "Throw knives at rotating targets without hitting your own blades.",
+  "path": "games/knifehit/index.html",
+  "tags": ["arcade", "skill", "timing"]
+},
+{
+  "title": "Last Horizon",
+  "description": "Pilot through space and survive in a hostile galaxy.",
+  "path": "games/lasthorizon/index.html",
+  "tags": ["space", "survival", "flying"]
+},
+{
+  "title": "Lazy Jump 3D",
+  "description": "A physics-based jumping game with ragdoll-style movement.",
+  "path": "games/lazyjump3d/index.html",
+  "tags": ["physics", "jumping", "arcade"]
+},
+{
+  "title": "Learn to Fly",
+  "description": "Launch, upgrade, and help the penguin fly farther each run.",
+  "path": "games/learntofly/index.html",
+  "tags": ["launch", "upgrade", "classic"]
+},
+{
+  "title": "Learn to Fly 2",
+  "description": "Upgrade your equipment and fly even farther in this sequel.",
+  "path": "games/learntofly2/index.html",
+  "tags": ["launch", "upgrade", "classic"]
+},
+{
+  "title": "Learn to Fly Idle",
+  "description": "An idle-style Learn to Fly game focused on upgrades and progress.",
+  "path": "games/learntoflyidle/index.html",
+  "tags": ["idle", "upgrade", "clicker"]
+},
+{
+  "title": "Line Rider",
+  "description": "Draw tracks and watch the rider slide through your custom course.",
+  "path": "games/linerider/index.html",
+  "tags": ["drawing", "physics", "sandbox"]
+},
+{
+  "title": "Little Alchemy",
+  "description": "Combine elements to discover new items and reactions.",
+  "path": "games/littlealchemy/index.html",
+  "tags": ["puzzle", "alchemy", "logic"]
+},
+{
+  "title": "Low's Adventures 2",
+  "description": "Run, jump, and explore through platforming levels.",
+  "path": "games/lowsadventures2/index.html",
+  "tags": ["platformer", "adventure", "arcade"]
+},
+{
+  "title": "Madalin Cars",
+  "description": "Drive and explore in a high-speed car sandbox game.",
+  "path": "games/madalincars/index.html",
+  "tags": ["driving", "cars", "sandbox"]
+},
+{
+  "title": "Mario",
+  "description": "A browser platformer inspired by classic Mario-style gameplay.",
+  "path": "games/mario/index.html",
+  "tags": ["platformer", "classic", "arcade"]
+},
+{
+  "title": "Minecraft Classic",
+  "description": "Build and explore in a classic block-based sandbox experience.",
+  "path": "games/mcclassic/index.html",
+  "tags": ["sandbox", "building", "minecraft"]
+},
+{
+  "title": "Metroid Zero Mission",
+  "description": "A retro action-adventure game from the imported collection.",
+  "path": "games/metroidzeromission/index.html",
+  "tags": ["retro", "adventure", "action"]
+},
+{
+  "title": "Minecraft Tower Defence 2",
+  "description": "Defend your path with towers in a Minecraft-inspired tower defense game.",
+  "path": "games/minecraft-tower-defence-2/index.html",
+  "tags": ["tower-defense", "strategy", "minecraft"]
+},
+{
+  "title": "Minesweeper",
+  "description": "Clear the board while avoiding hidden mines.",
+  "path": "games/minesweeper/index.html",
+  "tags": ["puzzle", "classic", "logic"]
+},
+{
+  "title": "Monkey Mart",
+  "description": "Run a market, stock goods, and grow your monkey business.",
+  "path": "games/monkeymart/index.html",
+  "tags": ["management", "idle", "arcade"]
+},
+{
+  "title": "Monster Tracks",
+  "description": "Drive monster trucks over obstacles and rough terrain.",
+  "path": "games/monstertracks/index.html",
+  "tags": ["driving", "truck", "physics"]
+},
+{
+  "title": "Moto X3M",
+  "description": "Race through stunt tracks on a dirt bike while avoiding crashes.",
+  "path": "games/motox3m/index.html",
+  "tags": ["bike", "racing", "stunt"]
+},
+{
+  "title": "Moto X3M Pool Party",
+  "description": "Ride through pool-themed stunt tracks with ramps and hazards.",
+  "path": "games/motox3m-pool/index.html",
+  "tags": ["bike", "racing", "stunt"]
+},
+{
+  "title": "Moto X3M Spooky Land",
+  "description": "Race through spooky Halloween-style stunt tracks.",
+  "path": "games/motox3m-spooky/index.html",
+  "tags": ["bike", "racing", "halloween"]
+},
+{
+  "title": "Moto X3M Winter",
+  "description": "Ride through snowy stunt tracks filled with winter obstacles.",
+  "path": "games/motox3m-winter/index.html",
+  "tags": ["bike", "racing", "winter"]
+},
+{
+  "title": "NGON",
+  "description": "A browser game from the imported collection.",
+  "path": "games/ngon/index.html",
+  "tags": ["browser", "arcade", "game"]
+},
+{
+  "title": "NUT Simulator",
+  "description": "A browser simulator game from the imported collection.",
+  "path": "games/nutsim/index.html",
+  "tags": ["simulator", "browser", "game"]
+},
+{
+  "title": "Ocarina of Time",
+  "description": "A retro adventure game from the imported collection.",
+  "path": "games/ocarinaoftime/index.html",
+  "tags": ["retro", "adventure", "classic"]
+},
+{
+  "title": "Offline Minecraft",
+  "description": "A block-building sandbox game that can be played offline.",
+  "path": "games/offline-mc/index.html",
+  "tags": ["minecraft", "sandbox", "building"]
+},
+{
+  "title": "Offline Paradise",
+  "description": "A browser game from the imported collection.",
+  "path": "games/offlineparadise/index.html",
+  "tags": ["browser", "arcade", "game"]
+},
+{
+  "title": "Online Minecraft",
+  "description": "A browser-based block-building game inspired by Minecraft.",
+  "path": "games/online-mc/index.html",
+  "tags": ["minecraft", "sandbox", "building"]
+},
+{
+  "title": "OSU",
+  "description": "A rhythm game focused on timing, accuracy, and music.",
+  "path": "games/osu/index.html",
+  "tags": ["rhythm", "music", "skill"]
+},
+{
+  "title": "OSU Mania",
+  "description": "A key-based rhythm game mode focused on note timing.",
+  "path": "games/osumania/index.html",
+  "tags": ["rhythm", "music", "skill"]
+},
+{
+  "title": "OvO",
+  "description": "Run, jump, slide, and wall-jump through fast platforming levels.",
+  "path": "games/ovo/index.html",
+  "tags": ["platformer", "skill", "parkour"]
+},
+{
+  "title": "Pac-Man",
+  "description": "Eat pellets, avoid ghosts, and clear the maze.",
+  "path": "games/pacman/index.html",
+  "tags": ["arcade", "classic", "maze"]
+},
+{
+  "title": "Pandemic",
+  "description": "A strategy game about spreading and managing a global outbreak.",
+  "path": "games/pandemic/index.html",
+  "tags": ["strategy", "simulation", "classic"]
+},
+{
+  "title": "Pandemic 2",
+  "description": "The sequel to Pandemic with more global strategy mechanics.",
+  "path": "games/pandemic2/index.html",
+  "tags": ["strategy", "simulation", "classic"]
+},
+{
+  "title": "Papa's Burgeria",
+  "description": "Take orders, cook burgers, and serve customers in Papa's restaurant.",
+  "path": "games/papasburgeria/index.html",
+  "tags": ["cooking", "restaurant", "management"]
+},
+{
+  "title": "Papa's Freezeria",
+  "description": "Make frozen treats, serve customers, and manage the shop.",
+  "path": "games/papasfreezeria/index.html",
+  "tags": ["cooking", "restaurant", "management"]
+},
+{
+  "title": "Paper.io",
+  "description": "Claim territory, avoid enemies, and try to control the map.",
+  "path": "games/paperio/index.html",
+  "tags": ["io", "arcade", "territory"]
+},
+{
+  "title": "Pi",
+  "description": "A browser game from the imported collection.",
+  "path": "games/pi/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Pizza Tower",
+  "description": "Run, dash, and platform through fast-paced cartoon levels.",
+  "path": "games/pizzatower/index.html",
+  "tags": ["platformer", "speed", "arcade"]
+},
+{
+  "title": "Pokemon",
+  "description": "A retro monster-catching adventure from the imported collection.",
+  "path": "games/pokemon/index.html",
+  "tags": ["retro", "adventure", "rpg"]
+},
+{
+  "title": "Pong",
+  "description": "Play the classic paddle-and-ball arcade game.",
+  "path": "games/pong/index.html",
+  "tags": ["classic", "arcade", "sports"]
+},
+{
+  "title": "Pool",
+  "description": "Aim shots, sink balls, and play a browser pool game.",
+  "path": "games/pool/index.html",
+  "tags": ["sports", "pool", "skill"]
+},
+{
+  "title": "Poom",
+  "description": "A browser game from the imported collection.",
+  "path": "games/poom/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Pre",
+  "description": "A browser game from the imported collection.",
+  "path": "games/pre/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Red Ball 3",
+  "description": "Roll, jump, and solve platforming puzzles as Red Ball.",
+  "path": "games/redball3/index.html",
+  "tags": ["platformer", "puzzle", "classic"]
+},
+{
+  "title": "Red Ball 4",
+  "description": "Roll through levels, avoid enemies, and complete physics puzzles.",
+  "path": "games/redball4/index.html",
+  "tags": ["platformer", "puzzle", "physics"]
+},
+{
+  "title": "Red Ball 4 Volume 2",
+  "description": "Continue the Red Ball 4 adventure with more platforming stages.",
+  "path": "games/redball4vol2/index.html",
+  "tags": ["platformer", "puzzle", "physics"]
+},
+{
+  "title": "Red Ball 4 Volume 3",
+  "description": "The third Red Ball 4 volume with more rolling puzzle levels.",
+  "path": "games/redball4vol3/index.html",
+  "tags": ["platformer", "puzzle", "physics"]
+},
+{
+  "title": "Retro Bowl",
+  "description": "Manage your team and play retro-style football games.",
+  "path": "games/retrobowl/index.html",
+  "tags": ["sports", "football", "management"]
+},
+{
+  "title": "Retro Bowl College",
+  "description": "Play and manage a college football team in retro style.",
+  "path": "games/retrobowlcollege/index.html",
+  "tags": ["sports", "football", "college"]
+},
+{
+  "title": "Riddle School",
+  "description": "Solve puzzles and escape school in this classic point-and-click game.",
+  "path": "games/riddleschool/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School 2",
+  "description": "Escape school again with more point-and-click puzzles.",
+  "path": "games/riddleschool2/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School 3",
+  "description": "Solve another set of school escape puzzles.",
+  "path": "games/riddleschool3/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School 4",
+  "description": "A short entry in the Riddle School puzzle series.",
+  "path": "games/riddleschool4/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School 5",
+  "description": "Continue the Riddle School story with more puzzles and choices.",
+  "path": "games/riddleschool5/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School Transfer",
+  "description": "Escape and solve puzzles in the Riddle Transfer series.",
+  "path": "games/riddleschooltransfer/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Riddle School Transfer 2",
+  "description": "The second Riddle Transfer game with more escape-room style puzzles.",
+  "path": "games/riddleschooltransfer2/index.html",
+  "tags": ["puzzle", "adventure", "point-and-click"]
+},
+{
+  "title": "Rise Higher",
+  "description": "Protect the rising object and avoid obstacles as you climb higher.",
+  "path": "games/risehigher/index.html",
+  "tags": ["arcade", "skill", "survival"]
+},
+{
+  "title": "Rocket League",
+  "description": "A car-soccer game from the imported collection.",
+  "path": "games/rocketleague/index.html",
+  "tags": ["cars", "soccer", "sports"]
+},
+{
+  "title": "Rooftop Snipers",
+  "description": "Knock your opponent off the rooftop in a chaotic sniper duel.",
+  "path": "games/rooftopsnipers/index.html",
+  "tags": ["shooter", "physics", "two-player"]
+},
+{
+  "title": "Rooftop Snipers 2",
+  "description": "The sequel to Rooftop Snipers with more chaotic duels.",
+  "path": "games/rooftopsnipers2/index.html",
+  "tags": ["shooter", "physics", "two-player"]
+},
+{
+  "title": "Ruffle",
+  "description": "A Flash emulator/player from the imported collection.",
+  "path": "games/ruffle/index.html",
+  "tags": ["flash", "emulator", "retro"]
+},
+{
+  "title": "Run",
+  "description": "Run through space tunnels, jump gaps, and survive each level.",
+  "path": "games/run/index.html",
+  "tags": ["runner", "platformer", "classic"]
+},
+{
+  "title": "Run 2",
+  "description": "The second Run game with more space platforming levels.",
+  "path": "games/run2/index.html",
+  "tags": ["runner", "platformer", "classic"]
+},
+{
+  "title": "Run 3",
+  "description": "Run through space tunnels and avoid falling into the void.",
+  "path": "games/run3/index.html",
+  "tags": ["runner", "platformer", "classic"]
+},
+{
+  "title": "Russian Car Driver",
+  "description": "Drive vehicles through roads and open environments.",
+  "path": "games/russiancardriver/index.html",
+  "tags": ["driving", "cars", "simulation"]
+},
+{
+  "title": "Sand",
+  "description": "A falling-sand style browser simulation.",
+  "path": "games/sand/index.html",
+  "tags": ["sandbox", "simulation", "physics"]
+},
+{
+  "title": "Sandtrix",
+  "description": "A falling-block puzzle game with sand-like physics.",
+  "path": "games/sandtrix/index.html",
+  "tags": ["puzzle", "physics", "sand"]
+},
+{
+  "title": "Shadow",
+  "description": "A browser game from the imported collection.",
+  "path": "games/shadow/index.html",
+  "tags": ["browser", "game", "arcade"]
+},
+{
+  "title": "Skibidi Toilet",
+  "description": "A browser game from the imported collection.",
+  "path": "games/skibiditoilet/index.html",
+  "tags": ["browser", "arcade", "game"]
+},
+{
+  "title": "Skibidi Toilet Attack",
+  "description": "An action-style browser game from the imported collection.",
+  "path": "games/skibiditoiletattack/index.html",
+  "tags": ["action", "arcade", "browser"]
+},
+{
+  "title": "Skills",
+  "description": "A browser game focused on timing, reaction, and precision.",
+  "path": "games/skills/index.html",
+  "tags": ["skill", "arcade", "browser"]
+},
+{
+  "title": "Slope",
+  "description": "Roll downhill, dodge obstacles, and survive at high speed.",
+  "path": "games/slope/index.html",
+  "tags": ["runner", "skill", "arcade"]
+},
+{
+  "title": "Slope Ball",
+  "description": "A fast rolling ball game with obstacle-dodging gameplay.",
+  "path": "games/slope-ball/index.html",
+  "tags": ["runner", "ball", "skill"]
+},
+{
+  "title": "Slope 2",
+  "description": "The second Slope-style game with fast downhill movement.",
+  "path": "games/slope2/index.html",
+  "tags": ["runner", "skill", "arcade"]
+},
+{
+  "title": "Slope 3",
+  "description": "A fast obstacle-dodging game inspired by Slope gameplay.",
+  "path": "games/slope3/index.html",
+  "tags": ["runner", "skill", "arcade"]
+},
+{
+  "title": "Snake",
+  "description": "Control the snake, eat food, and grow without crashing.",
+  "path": "games/snake/index.html",
+  "tags": ["classic", "arcade", "snake"]
+},
+{
+  "title": "Snow",
+  "description": "A browser game from the imported collection.",
+  "path": "games/snow/index.html",
+  "tags": ["browser", "arcade", "game"]
+},
+{
+  "title": "Snow Rider 3D",
+  "description": "Ride through snowy slopes and dodge obstacles.",
+  "path": "games/snowrider3d/index.html",
+  "tags": ["racing", "snow", "3d"]
+},
+{
+  "title": "Soccer Random",
+  "description": "A goofy physics soccer game with random movement and matches.",
+  "path": "games/soccerrandom/index.html",
+  "tags": ["sports", "soccer", "physics"]
+},
+{
+  "title": "Solitaire",
+  "description": "Play the classic card game in your browser.",
+  "path": "games/solitaire/index.html",
+  "tags": ["cards", "classic", "puzzle"]
+},
+{
+  "title": "Soundboard",
+  "description": "A browser soundboard from the imported collection.",
+  "path": "games/soundboard/index.html",
+  "tags": ["sound", "audio", "browser"]
+},
+{
+  "title": "Space",
+  "description": "A space-themed browser game from the imported collection.",
+  "path": "games/space/index.html",
+  "tags": ["space", "arcade", "browser"]
+},
+{
+  "title": "Spank the Monkey",
+  "description": "A reaction-based browser game from the imported collection.",
+  "path": "games/spankthemonkey/index.html",
+  "tags": ["reaction", "arcade", "browser"]
+},
+{
+  "title": "Sprinter",
+  "description": "Race down the track and try to beat your opponents.",
+  "path": "games/sprinter/index.html",
+  "tags": ["sports", "running", "racing"]
+},
+{
+  "title": "Stack",
+  "description": "Stack blocks as high as possible with precise timing.",
+  "path": "games/stack/index.html",
+  "tags": ["arcade", "timing", "skill"]
+},
+{
+  "title": "Stealing the Diamond",
+  "description": "Choose your plan and try to steal the diamond.",
+  "path": "games/stealingthediamond/index.html",
+  "tags": ["choice", "adventure", "stickman"]
+},
+{
+  "title": "Stickman Hook",
+  "description": "Swing through levels using momentum and timing.",
+  "path": "games/stickman-hook/index.html",
+  "tags": ["physics", "swinging", "skill"]
+},
+{
+  "title": "Stickman Boost",
+  "description": "Run, jump, and avoid hazards in fast stickman platforming levels.",
+  "path": "games/stickmanboost/index.html",
+  "tags": ["platformer", "stickman", "skill"]
+},
+{
+  "title": "Stickman Climb",
+  "description": "Climb through obstacles using careful movement and physics.",
+  "path": "games/stickmanclimb/index.html",
+  "tags": ["physics", "stickman", "skill"]
+},
+{
+  "title": "Stickman Golf",
+  "description": "Play golf with simple stickman-style physics.",
+  "path": "games/stickmangolf/index.html",
+  "tags": ["sports", "golf", "physics"]
+},
+{
+  "title": "Subway Surfers NY",
+  "description": "Run through the city, dodge obstacles, and collect coins.",
+  "path": "games/subway-surfers-ny/index.html",
+  "tags": ["runner", "arcade", "subway"]
+},
+{
+  "title": "Superhot",
+  "description": "A browser action game where time moves with you.",
+  "path": "games/superhot/index.html",
+  "tags": ["action", "shooter", "strategy"]
+},
+{
+  "title": "Super Mario 64",
+  "description": "A retro 3D platforming adventure from the imported collection.",
+  "path": "games/supermario64/index.html",
+  "tags": ["platformer", "retro", "mario"]
+},
+{
+  "title": "Super Meat Boy",
+  "description": "A difficult platformer focused on speed, timing, and precision.",
+  "path": "games/supermeatboy/index.html",
+  "tags": ["platformer", "hard", "skill"]
+},
+{
+  "title": "Super Smash Bros",
+  "description": "A fighting game from the imported collection.",
+  "path": "games/supersmashbros/index.html",
+  "tags": ["fighting", "action", "retro"]
+},
+{
+  "title": "Super Smash Flash",
+  "description": "A browser fighting game inspired by platform fighter gameplay.",
+  "path": "games/supersmashflash/index.html",
+  "tags": ["fighting", "platformer", "action"]
+},
+{
+  "title": "TABS",
+  "description": "A battle simulator game from the imported collection.",
+  "path": "games/tabs/index.html",
+  "tags": ["simulation", "battle", "strategy"]
+},
+{
+  "title": "Temple Run 2",
+  "description": "Run, dodge, turn, and survive as long as possible.",
+  "path": "games/templerun2/index.html",
+  "tags": ["runner", "arcade", "action"]
+},
+{
+  "title": "Tetris",
+  "description": "Stack falling blocks and clear lines in this classic puzzle game.",
+  "path": "games/tetris/index.html",
+  "tags": ["puzzle", "classic", "blocks"]
+},
+{
+  "title": "The Final Earth 2",
+  "description": "Build and manage a growing city in space.",
+  "path": "games/thefinalearth2/index.html",
+  "tags": ["city-builder", "strategy", "simulation"]
+},
+{
+  "title": "The Impossible Game",
+  "description": "Jump through difficult obstacle levels with precise timing.",
+  "path": "games/theimpossiblegame/index.html",
+  "tags": ["platformer", "hard", "skill"]
+},
+{
+  "title": "Hi Zander!",
+  "description": "A custom image page.",
+  "image": "games/hi-zander/waving-spongebob.png",
+  "path": "games/hi-zander/index.html",
+  "tags": ["custom", "image", "spongebob"]
+}
+]

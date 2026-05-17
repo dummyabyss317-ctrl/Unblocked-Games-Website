@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Play Game</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #111;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at top left, rgba(255, 255, 255, 0.55), transparent 26%),
+        radial-gradient(circle at bottom right, rgba(0, 110, 255, 0.18), transparent 28%),
+        linear-gradient(135deg, #7fffe8, #28d6c8 45%, #58f0d8);
+    }
+
+    .page-shell {
+      height: 100vh;
+      padding: 14px;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 14px;
+    }
+
+    .topbar {
+      min-height: 76px;
+      padding: 12px;
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.72);
+      backdrop-filter: blur(14px);
+      box-shadow: 0 14px 35px rgba(0, 0, 0, 0.16);
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .brand-badge {
+      width: 52px;
+      height: 52px;
+      border-radius: 18px;
+      background: white;
+      display: grid;
+      place-items: center;
+      color: #0b6f8f;
+      font-size: 22px;
+      font-weight: 900;
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+      flex: 0 0 auto;
+    }
+
+    .brand-text {
+      min-width: 0;
+    }
+
+    .brand-title {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1;
+      font-weight: 900;
+      color: #053f52;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .brand-subtitle {
+      margin: 5px 0 0;
+      color: #267486;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .topbar-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    button {
+      border: none;
+      border-radius: 16px;
+      padding: 12px 16px;
+      background: white;
+      color: #07566b;
+      font-size: 14px;
+      font-weight: 900;
+      cursor: pointer;
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+      transition:
+        transform 0.16s ease,
+        box-shadow 0.16s ease,
+        background 0.16s ease;
+    }
+
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 14px 28px rgba(0, 0, 0, 0.18);
+      background: #f2fffc;
+    }
+
+    button.primary {
+      background: #07566b;
+      color: white;
+    }
+
+    button.primary:hover {
+      background: #043f50;
+    }
+
+    .game-wrap {
+      min-height: 0;
+      padding: 10px;
+      border-radius: 28px;
+      background: rgba(255, 255, 255, 0.46);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+    }
+
+    .game-frame-card {
+      width: 100%;
+      height: 100%;
+      border-radius: 22px;
+      overflow: hidden;
+      background: #05050a;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      background: #05050a;
+      display: block;
+    }
+
+    .error-screen {
+      height: 100%;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 24px;
+      color: white;
+      background: #05050a;
+    }
+
+    .error-box {
+      max-width: 440px;
+    }
+
+    .error-box h1 {
+      margin: 0 0 10px;
+      font-size: 32px;
+    }
+
+    .error-box p {
+      color: #cfcfe6;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 760px) {
+      body {
+        overflow: auto;
+      }
+
+      .page-shell {
+        min-height: 100vh;
+        height: auto;
+        grid-template-rows: auto 78vh;
+        padding: 10px;
+        gap: 10px;
+      }
+
+      .topbar {
+        align-items: stretch;
+        flex-direction: column;
+        border-radius: 20px;
+      }
+
+      .brand-badge {
+        width: 46px;
+        height: 46px;
+        border-radius: 15px;
+      }
+
+      .brand-title {
+        font-size: 19px;
+      }
+
+      .topbar-actions {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 8px;
+      }
+
+      button {
+        padding: 11px 8px;
+        font-size: 12px;
+        border-radius: 13px;
+      }
+
+      .game-wrap {
+        border-radius: 22px;
+        padding: 8px;
+      }
+
+      .game-frame-card {
+        border-radius: 17px;
+      }
+    }
+
+    @media (max-width: 430px) {
+      .topbar-actions {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .page-shell {
+        grid-template-rows: auto 72vh;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page-shell">
+
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-badge">A</div>
+
+        <div class="brand-text">
+          <h1 class="brand-title" id="gameTitle">Abyss Arcade</h1>
+          <p class="brand-subtitle">Now playing</p>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button onclick="goHome()">Home</button>
+        <button onclick="reloadGame()">Reload</button>
+        <button onclick="openNewTab()">New Tab</button>
+        <button class="primary" onclick="openFullscreen()">Fullscreen</button>
+      </div>
+    </header>
+
+    <main class="game-wrap">
+      <div class="game-frame-card" id="frameCard">
+        <iframe id="gameFrame"></iframe>
+      </div>
+    </main>
+
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const gamePath = params.get("game");
+
+    const frame = document.getElementById("gameFrame");
+    const frameCard = document.getElementById("frameCard");
+    const gameTitle = document.getElementById("gameTitle");
+
+    if (gamePath) {
+      frame.src = gamePath;
+      setGameTitle();
+    } else {
+      showNoGameError();
+    }
+
+    function goHome() {
+      window.location.href = "index.html";
+    }
+
+    function reloadGame() {
+      if (gamePath) {
+        frame.src = "";
+        setTimeout(() => {
+          frame.src = gamePath;
+        }, 80);
+      }
+    }
+
+    function openNewTab() {
+      if (gamePath) {
+        window.open(gamePath, "_blank");
+      }
+    }
+
+    function openFullscreen() {
+      if (frame.requestFullscreen) {
+        frame.requestFullscreen();
+      } else if (frame.webkitRequestFullscreen) {
+        frame.webkitRequestFullscreen();
+      } else if (frame.msRequestFullscreen) {
+        frame.msRequestFullscreen();
+      }
+    }
+
+    function showNoGameError() {
+      frame.remove();
+
+      frameCard.innerHTML = `
+        <div class="error-screen">
+          <div class="error-box">
+            <h1>No game selected</h1>
+            <p>Go back home and choose a game from the library.</p>
+            <button class="primary" onclick="goHome()">Return Home</button>
+          </div>
+        </div>
+      `;
+    }
+
+    function setGameTitle() {
+      const folderName = getFolderNameFromPath(gamePath);
+      const readableName = makeReadableTitle(folderName);
+
+      if (readableName) {
+        gameTitle.textContent = readableName;
+        document.title = `${readableName} - Abyss Arcade`;
+      }
+    }
+
+    function getFolderNameFromPath(path) {
+      const parts = path.split("/").filter(Boolean);
+
+      // Example: games/flappybird/index.html -> flappybird
+      if (parts.length >= 2) {
+        return parts[parts.length - 2];
+      }
+
+      return "";
+    }
+
+    function makeReadableTitle(text) {
+      return text
+        .replace(/-/g, " ")
+        .replace(/_/g, " ")
+        .replace(/\b\w/g, letter => letter.toUpperCase());
+    }
+  </script>
+
+</body>
+</html>

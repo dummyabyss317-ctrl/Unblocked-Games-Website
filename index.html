@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Game Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <nav class="navbar">
+      <div class="logo">Abyss Arcade</div>
+
+      <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">Popular</a>
+        <a href="#">New</a>
+      </div>
+    </nav>
+
+    <section class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">browser games library</p>
+        <h1>Play games instantly.</h1>
+        <p>
+          Choose a game, launch it in the browser, and start playing without downloads.
+        </p>
+      </div>
+    </section>
+  </header>
+
+  <main class="main-content">
+    <section class="controls">
+      <div>
+        <h2>Game Library</h2>
+        <p>Select a game from the collection below.</p>
+      </div>
+
+      <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Search games..."
+      />
+    </section>
+
+    <section class="game-grid" id="gameGrid">
+      <!-- Game cards load here -->
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
